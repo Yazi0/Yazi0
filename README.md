@@ -31,7 +31,7 @@ Currently working on **FoodFlowHub**, an online food-ordering system.
 
 ### 🍽️ FoodFlowHub — Online Food Ordering System
 <a href="https://github.com/Yazi0/FoodFlowHub">
-  <img src="https://raw.githubusercontent.com/Yazi0/Yazi0/main/assets/foodflowhub-preview.png" alt="FoodFlowHub Preview" width="100%" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.gpVbZjqgw1DWlBWmAqjT3QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="FoodFlowHub Preview" width="70%" />
 </a>
 
 **Tech Stack:** React, Node.js, Express, MongoDB  
@@ -46,7 +46,7 @@ Currently working on **FoodFlowHub**, an online food-ordering system.
 
 ### 🏫 Class Management System — Admin | Teacher | Student
 <a href="https://github.com/Yazi0/ClassManagementSystem">
-  <img src="https://raw.githubusercontent.com/Yazi0/Yazi0/main/assets/classmanagement-preview.png" alt="ClassManagement System Preview" width="100%" />
+  <img src="https://www.inettutor.com/wp-content/uploads/2021/08/E-Class-Management-System-Dashboard.png" alt="ClassManagement System Preview" width="70%" />
 </a>
 
 **Tech Stack:** React, Node.js, Express, MongoDB  
