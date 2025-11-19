@@ -7,7 +7,7 @@ Currently working on **FoodFlowHub**, an online food-ordering system.
 
 ## 📚 About Me
 
-- 🔭 I’m currently working on **FoodFlowHub** — web app with customer & admin roles, recipe viewing, and order management.  
+- 🔭 I’m currently working on **ClassManagement System** — web app with admin , teacher & student roles, student details viewing, student attendence sms and monthly report.  
 - 🌱 I’m learning more about **TypeScript**, **Node.js**, **React**, and **API design**.  
 - 👯 I want to collaborate on open-source projects, especially related to food tech & education.  
 - 💬 Ask me about **web development**, **full-stack architecture**, or **clean code practices**.  
@@ -27,15 +27,43 @@ Currently working on **FoodFlowHub**, an online food-ordering system.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **FoodFlowHub** — Online food-ordering system  
-  - Customer role: browse menu, order food  
-  - Admin role: manage orders, update recipes  
-  - Built with: React, Node.js, Express, MongoDB  
-- *(ඔයාට තව projects තියෙනවා නම්, ඔව්වාත් මෙතන ලිස්ට් කරන්න)*
+### 🍽️ FoodFlowHub — Online Food Ordering System
+<a href="https://github.com/Yazi0/FoodFlowHub">
+  <img src="https://raw.githubusercontent.com/Yazi0/Yazi0/main/assets/foodflowhub-preview.png" alt="FoodFlowHub Preview" width="100%" />
+</a>
+
+**Tech Stack:** React, Node.js, Express, MongoDB  
+**Features:**
+- Customer: browse menu, add to cart, order food  
+- Admin: manage orders, update recipes  
+- Fast UI + smooth user flow
+
+➡️ **GitHub Repo:** https://github.com/Yazi0/FoodFlowHub  
 
 ---
+
+### 🏫 Class Management System — Admin | Teacher | Student
+<a href="https://github.com/Yazi0/ClassManagementSystem">
+  <img src="https://raw.githubusercontent.com/Yazi0/Yazi0/main/assets/classmanagement-preview.png" alt="ClassManagement System Preview" width="100%" />
+</a>
+
+**Tech Stack:** React, Node.js, Express, MongoDB  
+**Features:**
+- Admin panel & role-based access  
+- Teacher dashboard  
+- Student attendance + SMS alerts  
+- Monthly reports generation
+
+➡️ **GitHub Repo:** https://github.com/Yazi0/ClassManagementSystem  
+
+---
+
+### 📝 More Projects
+📌 Visit all my repositories here:  
+**https://github.com/Yazi0?tab=repositories**
+
 
 ## 📈 GitHub Stats
 
