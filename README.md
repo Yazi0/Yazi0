@@ -1,74 +1,147 @@
-# Hi there, I’m **Yasiru Nimsara** 👋
+<h1 align="center">Hi 👋, I'm Yasiru Nimsara</h1>
 
-I'm a **2nd-year HNDIT student** and a passionate **full-stack web developer**.  
-Currently working on **FoodFlowHub**, an online food-ordering system.
+<h3 align="center">Intern Software Engineer | Full Stack Developer | HNDIT Student</h3>
 
----
-
-## 📚 About Me
-
-- 🔭 I’m currently working on **ClassManagement System** — web app with admin , teacher & student roles, student details viewing, student attendence sms and monthly report.  
-- 🌱 I’m learning more about **TypeScript**, **Node.js**, **React**, and **API design**.  
-- 👯 I want to collaborate on open-source projects, especially related to food tech & education.  
-- 💬 Ask me about **web development**, **full-stack architecture**, or **clean code practices**.  
-- 📫 How to reach me: **yasiru01nimsara@gmail.com**  
-- ⚡ Fun fact: I love cooking new recipes and then coding new features — food + code = ❤️
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+Developer;MERN+Stack+Enthusiast;Building+Real+World+Projects" />
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+# 👨‍💻 About Me
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Backend** | Node.js, Express, MongoDB / SQL |
-| **Tools** | Git, GitHub, VS Code, Postman |
-| **Others** | REST APIs, Authentication, Responsive Design |
+🎓 2nd Year **HNDIT Student**
 
----
+💼 **Intern Software Engineer**
 
-## 🚀 Featured Projects
+🍽 Currently Building  
+**FoodFlowHub – Online Food Ordering System**
 
-### 🍽️ FoodFlowHub — Online Food Ordering System
+🏫 Developing  
+**Class Management System**
 
-**Tech Stack:** React, Node.js, Express, MongoDB  
-**Features:**
-- Customer: browse menu, add to cart, order food  
-- Admin: manage orders, update recipes  
-- Fast UI + smooth user flow
+🌱 Currently Learning
 
-➡️ **GitHub Repo:** https://github.com/Yazi0/FoodFlowHub  
+- TypeScript
+- Advanced React
+- API Architecture
+- Backend Optimization
 
----
-
-### 🏫 Class Management System — Admin | Teacher | Student
-
-**Tech Stack:** React, Node.js, Express, MongoDB  
-**Features:**
-- Admin panel & role-based access  
-- Teacher dashboard  
-- Student attendance + SMS alerts  
-- Monthly reports generation
-
-➡️ **GitHub Repo:** https://github.com/Yazi0/ClassManagementSystem  
+⚡ Fun fact  
+**I love cooking recipes 🍜 and building apps 💻**
 
 ---
 
-### 📝 More Projects
-📌 Visit all my repositories here:  
-**https://github.com/Yazi0?tab=repositories**
+# 🚀 Tech Stack
 
+### Frontend
 
-## 📈 GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-![Yasiru’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Yazi0&show_icons=true&theme=radical)
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 🚀 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/yasiru-nimsara-9a8566379)  
-- [Portfolio](https://yasirunimsara.vercel.app)
+## 🍽 FoodFlowHub
+
+Online Food Ordering Platform
+
+Features
+
+- Browse food menu
+- Add to cart
+- Order food online
+- Recipe management
+- Admin dashboard
+
+🔗 Repo  
+https://github.com/Yazi0/FoodFlowHub
 
 ---
 
+## 🏫 Class Management System
+
+Admin | Teacher | Student Portal
+
+Features
+
+- Role based login
+- Teacher dashboard
+- Student attendance
+- SMS notifications
+- Monthly reports
+
+🔗 Repo  
+https://github.com/Yazi0/ClassManagementSystem
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yazi0&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazi0&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazi0&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Yasiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yazi0&theme=tokyo-night)](https://github.com/Yazi0)
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/yasiru-nimsara-9a8566379">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://yasirunimsara.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:yasiru01nimsara@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ From [Yazi0](https://github.com/Yazi0)
