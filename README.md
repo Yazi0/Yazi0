@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasiru Nimsara&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasiru=Nimsara&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/yazi0">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile+%E2%9C%A8;Building+with+TypeScript+%F0%9F%92%99;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
