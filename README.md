@@ -22,12 +22,16 @@
 
 # 👨‍💻 About Me
 
-🎓 2nd Year **HNDIT Student**
+🎓 Undergraduate  **HNDIT Student**
 
 💼 **Intern Software Engineer**
 
+💼 **Associate SEO Support - Port City BPO
+
+🔗 **https://yasirunimsara.netlify.app**
+
 🍽 Currently Building  
-**FoodFlowHub – Online Food Ordering System**
+**A9 Education – Online Learning Platform System**
 
 🏫 Developing  
 **Class Management System**
@@ -38,6 +42,7 @@
 - Advanced React
 - API Architecture
 - Backend Optimization
+- MERN Stack
 
 ⚡ Fun fact  
 **I love cooking recipes 🍜 and building apps 💻**
